@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/e3mall.iml" filepath="$PROJECT_DIR$/.idea/e3mall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3mall-parent/e3mall-common/e3mall-common.iml" filepath="$PROJECT_DIR$/e3mall-parent/e3mall-common/e3mall-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3mall-parent/e3mall-manager/e3mall-manager.iml" filepath="$PROJECT_DIR$/e3mall-parent/e3mall-manager/e3mall-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3mall-parent/e3mall-manager/e3mall-manager-dao/e3mall-manager-dao.iml" filepath="$PROJECT_DIR$/e3mall-parent/e3mall-manager/e3mall-manager-dao/e3mall-manager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3mall-parent/e3mall-manager/e3mall-manager-pojo/e3mall-manager-pojo.iml" filepath="$PROJECT_DIR$/e3mall-parent/e3mall-manager/e3mall-manager-pojo/e3mall-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3mall-parent/e3mall-manager/e3mall-manager-service/e3mall-manager-service.iml" filepath="$PROJECT_DIR$/e3mall-parent/e3mall-manager/e3mall-manager-service/e3mall-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3mall-parent/e3mall-manager/e3mall-manager-web/e3mall-manager-web.iml" filepath="$PROJECT_DIR$/e3mall-parent/e3mall-manager/e3mall-manager-web/e3mall-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3mall-parent/e3mall-parent.iml" filepath="$PROJECT_DIR$/e3mall-parent/e3mall-parent.iml" />
+    </modules>
+  </component>
+</project>
