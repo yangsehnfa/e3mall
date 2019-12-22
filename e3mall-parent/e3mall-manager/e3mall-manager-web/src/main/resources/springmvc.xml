@@ -26,5 +26,11 @@
         <property name="prefix" value="/WEB-INF/jsp/"></property>
         <property name="suffix" value=".jsp"></property>
     </bean>
+   <!-- <mvc:resources mapping="/css/" location="/css/**"/>
+    <mvc:resources mapping="/jslib/" location="/jslib/**"/>
+    <mvc:resources mapping="/layout/" location="/layout/**"/>
+    <mvc:resources mapping="/portal/" location="/portal/**"/>
+    <mvc:resources mapping="/style/" location="/style/**"/>-->
+    <mvc:default-servlet-handler default-servlet-name="default"></mvc:default-servlet-handler>
 
 </beans>
